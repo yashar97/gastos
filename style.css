@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contenido-principal {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: steelblue;
+}
